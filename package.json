@@ -64,7 +64,7 @@
   "devDependencies": {
     "husky": "^9.1.7",
     "tsx": "^4.20.3",
-    "ws": "^8.20.0"
+    "ws": "^8.20.1"
   },
   "dependencies": {
     "@rive-app/react-canvas": "^4.28.6",
